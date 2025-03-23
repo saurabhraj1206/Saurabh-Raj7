@@ -548,6 +548,12 @@
   font-weight: var(--weight-400);
 }
 
+.contact__img {
+  height: 750px;
+  width: 580px;
+  padding-left: 8rem;
+}
+
 .contact__description{
   margin-bottom: 3rem;
 }
